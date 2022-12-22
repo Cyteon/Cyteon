@@ -16,5 +16,5 @@
 
 <p align="center">
   <img width="53%" src="https://cyteon-readme.vercel.app/api?username=Cyteon&count_private=true&show_icons=true&theme=omni" alt="User stats" />
-  <img width="43%" src="https://cyteon-readme.vercel.app/api/top-langs/?username=Cyteon&layout=compact&theme=omni" alt="Top languages" />
+  <img width="43%" src="https://cyteon-readme.vercel.app/api/top-langs/?username=Cyteon&layout=compact&theme=omni&exclude_repo=readme-stats" alt="Top languages" />
 </p>

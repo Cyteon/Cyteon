@@ -14,5 +14,5 @@
 <hr>
 
 <p align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=cyteon&theme=dark_dimmed&margin-w=2.5" alt="Thropies">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyteon&theme=dark_dimmed&margin-w=5" alt="Thropies">
 </p>
